@@ -1,0 +1,12 @@
+bash tests/tests-sh/test-p4-1-1.sh
+bash tests/tests-sh/test-p4-1-2.sh
+bash tests/tests-sh/test-p4-1-3.sh
+bash tests/tests-sh/test-p4-1-4.sh
+bash tests/tests-sh/test-p4-1-5.sh
+bash tests/tests-sh/test-p4-2-1.sh
+bash tests/tests-sh/test-p4-3-1.sh
+bash tests/tests-sh/test-p4-4-1.sh
+bash tests/tests-sh/test-p4-4-2.sh
+bash tests/tests-sh/test-p4-4-3.sh
+bash tests/tests-sh/test-p4-5-1.sh
+bash tests/tests-sh/test-p4-6-1.sh
